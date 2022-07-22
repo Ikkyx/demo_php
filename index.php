@@ -1,3 +1,4 @@
 <?php
- echo"Ikkyx"
+ echo"Ikkyx";
+ echo"Terachat";
 ?>
